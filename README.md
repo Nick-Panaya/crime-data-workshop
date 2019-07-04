@@ -69,17 +69,17 @@ As geopandas is not installed in the default Python environments you need to cre
 
 - A textfield appears that you can edit. Delete all text and copy and paste the below into the textfield:
 
-```# Please add conda channels here
-channels:
+```Channels:
 - defaults
 - conda-forge
 
 # Please add conda packages here
 dependencies:
-- geopandas
-- geoplot
-- pysal
-- folium
+- geopandas=0.4.1
+- geoplot=0.2.4
+- pysal=2.0.0
+- folium=0.9.1
+- python=3.6.8
 
 # Please add pip packages here
 # To add pip packages, please comment out the next line
