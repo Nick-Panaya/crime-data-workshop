@@ -45,7 +45,7 @@ To load data into a notebook you need an Access Token.
 - Click `New token`
 - Give the new token a name, select `Editor` and click `Create`
 
-![](/images/token.png)
+![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/token.png)
 
 - You will need this later in the notebook
 
@@ -56,16 +56,16 @@ As geopandas is not installed in the default Python environments you need to cre
 - Go to the environments tab at the top of your project
 - Click on `new environment definition`
 
-![](/images/new_env.png)
+![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/new_env.png)
 
 - Give your new environment a name
 - Keep the default, select the free hardware configuration `Free - 1 vCPU and 4 GB RAM` and click `Create`
 
-![](/images/customize.png)
+![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/customize.png)
 
 - In the next screen you can customize the new environment. Scroll down and click on the `Create` link under Customization
 
-![](/images/customize_env.png)
+![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/customize_env.png)
 
 - A textfield appears that you can edit. Delete all text and copy and paste the below into the textfield:
 
@@ -86,8 +86,6 @@ dependencies:
 #- pip:
 ```
 - Click `Apply`
-
-![](/images/customize_env2.png)
 
 - Now you can use this new environment to run notebooks
 
