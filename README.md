@@ -70,7 +70,7 @@ As geopandas is not installed in the default Python environments you need to cre
 - A textfield appears that you can edit. Delete all text and copy and paste the below into the textfield:
 
 ```
-Channels:
+channels:
 - defaults
 - conda-forge
 
