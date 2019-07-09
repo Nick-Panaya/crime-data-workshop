@@ -21,7 +21,7 @@ In this workshop we will use them to analyse **UK crime data**
 * Extra functionality to find distances between points, select data inside a polygon, etc
 
 **Jupyter notebooks**
-*Follow the instructions to set up a notebook using:
+* Follow the instructions to set up a notebook using
   * IBM Cloud
   * Watson Studio
 
