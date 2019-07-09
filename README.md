@@ -59,7 +59,7 @@ As geopandas is not installed in the default Python environments you need to cre
 ![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/new_env.png)
 
 - Give your new environment a name
-- Keep the default, select the free hardware configuration `Free - 1 vCPU and 4 GB RAM` and click `Create`
+- Keep the default, select the free hardware configuration `Free - 1 vCPU and 4 GB RAM`, `Default Python 3.6` and click `Create`
 
 ![](https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/images/customize.png)
 
