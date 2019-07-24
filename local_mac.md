@@ -20,7 +20,7 @@ Then open the terminal to create the new environment with the following command:
 
 Activate the new custom environment:
 
-`conda activate foss4g`
+`source activate foss4g`
 
 Create a jupyter kernel from the new environment:
 
