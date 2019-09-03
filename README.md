@@ -1,8 +1,14 @@
 # Explore UK Crime Data with Pandas and Geopandas
 
-In this workshop you will learn how to expand your Python data analysis skills to geospatial data. The workshop is aimed at people who are interested in data science and data analysis.
+In this workshop you will learn how to expand your Python skills to geospatial data. Pandas is one of the main Python libraries for manipulating and analysing structured data and one of the first things to learn if you want to get started with data science. GeoPandas is an extension to Pandas that makes working with geospatial data in Python easier. 
 
-During the workshop we will analyse UK Crime Data with Pandas and GeoPandas in a Jupyter notebook. We first will look at the properties of geospatial data and explore the different commands. After you have learned the basics we will go through some exercises analysing the UK Crime Data to explore patterns and trends and create a few maps of crime rates in London.
+This workshop is an introduction to Pandas and GeoPandas where you will learn about:
+- Jupyter notebooks
+- Pandas and GeoPandas data structures
+- Transforming and exploring geospatial data
+- Visualising data with charts and maps
+
+During the workshop we will analyse UK Crime Data with Pandas and GeoPandas in a Jupyter notebook. We first will look at the properties of geospatial data and explore the different commands. After you have learned the basics we will go through some exercises analysing UK Crime Data to explore patterns and trends and create maps of crime rates in London.
 
 ## Getting Started with Jupyter Notebooks
 
@@ -97,7 +103,13 @@ dependencies:
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
 - Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/crime-data-workshop.ipynb`
-- Select the **custom runtime enviroment** that you created and click `Create Notebook`. 
 -  The notebook will load. 
- 
-You are now ready to follow along with the workshop in the notebook!
+
+- Choose new notebook From URL. Give your notebook a name and copy the URL https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/1-pandas-workshop.ipynb
+- Select the **custom runtime enviroment** that you created and click `Create Notebook`. 
+- The notebook will load.
+
+- Go back to the project page and repeat this for the other 2 notebooks that we will use in this workshop. Make sure you select your custom runtime enviroment for both:
+- https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/2-geopandas-workshop.ipynb
+- https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/3-crime-data-workshop.ipynb
+- You are now ready to follow along with the workshop in the notebook!
