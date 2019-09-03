@@ -102,9 +102,6 @@ dependencies:
 
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/crime-data-workshop.ipynb`
--  The notebook will load. 
-
 - Choose new notebook From URL. Give your notebook a name and copy the URL https://github.com/IBMDeveloperUK/crime-data-workshop/blob/master/notebooks/1-pandas-workshop.ipynb
 - Select the **custom runtime enviroment** that you created and click `Create Notebook`. 
 - The notebook will load.
